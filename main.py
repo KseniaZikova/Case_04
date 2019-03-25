@@ -1,3 +1,6 @@
+# Developers: Zikova K. 60%, Bateneva M. 80%, Shlapakova K. 90%
+
+
 import os
 
 def acceptCommand():  # проверка на ввод номера
